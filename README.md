@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jadhavggg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Pharma Student
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Telegram @indian_gjj
+- 👋 Hi, I’m Ganesh 
+- 👀 I’m interested in Several Things 
+- 🌱 I’m currently learning Pharma Student
+- 📫 How to reach me ... 
+- Telegram @not_ganesh
 
 <!---
 Jadhavggg/Jadhavggg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
